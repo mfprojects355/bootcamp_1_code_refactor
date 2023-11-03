@@ -8,7 +8,7 @@ Horiseon's website is designed to inform visitors about the importance of search
 
 ## Website URL
 
-Visit the website: []
+Visit the website: [https://mfprojects355.github.io/bootcamp_1_code_refactor/]
 
 ## Features
 
@@ -22,4 +22,4 @@ Visit the website: []
 
 1. **Clone the Repository:**
    ```sh
-   git clone []
+   git clone [git@github.com:mfprojects355/bootcamp_1_code_refactor.git]
